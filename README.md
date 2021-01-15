@@ -30,10 +30,11 @@
 | [love-exercise](https://github.com/KaiOrange) | https://run.kai666666.top/ | Keep |
 | [zstone12](https://github.com/zstone12) | https://running-page.zstone12.vercel.app/ | Keep |
 | [Lax](https://github.com/Lax) | https://running-lax.vercel.app/ | Keep |
+| [lusuzi](https://github.com/lusuzi) | https://running.lusuzi.vercel.app/ | Nike |
 
 ## How it works
 
-![image](https://user-images.githubusercontent.com/15976103/100430000-28753480-30d1-11eb-8b4e-258a67038d74.png)
+![image](https://user-images.githubusercontent.com/15976103/103496454-4294f600-4e79-11eb-9bd6-8eea7a07ddff.png)
 
 ## Features
 
